@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    font-family: sans-serif;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    height: 69px;
+    background-color: black;
+}
