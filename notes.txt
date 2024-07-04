@@ -1,0 +1,11 @@
+Fot git:-
+check version => git -v
+to get initialize => git init
+to tract the file => git add index.html 
+                     for current directory => git add .
+to commit message => git commit -m "message"     
+for 1st time:
+    git config --global user.email "ur mail"
+    git config --global user.name "username"
+do git commit -m "update" again      
+to push all code on git => git push -u origin main/master              
