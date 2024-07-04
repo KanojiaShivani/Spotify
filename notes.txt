@@ -8,4 +8,14 @@ for 1st time:
     git config --global user.email "ur mail"
     git config --global user.name "username"
 do git commit -m "update" again      
-to push all code on git => git push -u origin main/master              
+to push all code on git => git push -u origin main/master            
+
+To commit :- git commit -> click i -> write Initial commit -> esc -> :wq
+Shortcut for commit :- git commit -m "mssg"
+
+To see project/files status :- git status
+
+To checkout :- save files and modified :- git checkout index.html
+For all files :- git checkout -f
+
+To git log :- details will be show :- or what you have commited
